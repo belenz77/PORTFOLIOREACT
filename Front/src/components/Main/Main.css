@@ -1,0 +1,15 @@
+.buttonBZ {
+    background: #a9dddc;
+    border: 1px solid #a9dddc;
+    border-radius: 8px;
+    color: #050505;
+    display: block;
+    width: 70%;
+    padding: 5px;
+    font-size: 18px;
+    margin: 20px 50px;
+}
+.buttonBZ:hover {
+    background-color: #79cac9;
+}
+.verdeFuerte{ color:#032f2e  ;}
